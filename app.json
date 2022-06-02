@@ -1,5 +1,5 @@
 {
-	"name": "Cloudreve-slave-on-Heroku",
+	"name": "Cl",
 	"description": "Deploy Cloudreve slave node on Heroku.",
 	"env": {
 		"Secret": {
